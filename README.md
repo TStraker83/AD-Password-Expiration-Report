@@ -48,7 +48,8 @@ Then:
 
 Once that process is complete:
 
-- Copy and paste this script into Powershell
+- Copy and paste this [SCRIPT](https://github.com/TStraker83/AD-Password-Expiration-Report-Script/blob/main/AD-Password-Expiration-Report-Script.ps1)
+ into Powershell
 
 - Run the script 
 
@@ -75,5 +76,5 @@ Go to:
 This PC → Windows C: → PasswordChangeReport
 
 Your Excel program will open with the PasswordChangeReport list
-<p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/89f0586c-cafd-4576-9b21-f0fc5e5e591d" />
+<p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/804f2479-7dbf-4ba3-a2fa-f375f3afe838" />
 </p>
