@@ -38,7 +38,7 @@ In Powershell ISE:
 
 - File → New
 
-- Input: Install-Module ImportExcel -Scope CurrentUser (to install the Excel PowerShell module)
+- Input: <b>Install-Module ImportExcel -Scope CurrentUser</b> (to install the Excel PowerShell module)
 
 Then:
 
