@@ -1,4 +1,4 @@
-Using Powershell to configure an Active Directory Expiring Password Report
+<p align="center"><h2>Using Powershell to configure an Active Directory Expiring Password Report</h2> </p>
 
 
 <h2>Step 1 — Create an Organizational Unit</h2>
@@ -11,7 +11,7 @@ Go To: Active Directory Users and Computers (ADUC), create an Organizational Uni
 
 Right Click Your Domain Name Example: strakerlab.com
 
-- New → Organizational Unit → Name: EMPLOYEES
+- New → Organizational Unit → Name: <b>EMPLOYEES</b>
 <p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/fb3a8519-4e61-4ac0-ba51-e51e65607698" />
 </p>
 
@@ -69,12 +69,14 @@ This script has created a file in your C: drive that will give you a report of a
 
 - In the taskbar input File Explorer
 
-<p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/ec21d127-9439-43fe-9a85-1c56e4a1e304" />
-</p>
 Go to:
 
 This PC → Windows C: → PasswordChangeReport
 
+<p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/ec21d127-9439-43fe-9a85-1c56e4a1e304" />
+</p>
+
 Your Excel program will open with the PasswordChangeReport list
+
 <p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/804f2479-7dbf-4ba3-a2fa-f375f3afe838" />
 </p>
